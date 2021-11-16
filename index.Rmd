@@ -20,7 +20,7 @@ background-size: contain
 
 .large[Anna Quaglieri]
 
-.medium[WiMLDS - Career Transitions in ML and AI |16 Oct 2021]
+.medium[WiMLDS - Career Transitions in ML and AI |16 Nov 2021]
 
 
 ```{r setup, include=FALSE}
